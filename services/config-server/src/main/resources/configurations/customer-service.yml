@@ -1,0 +1,11 @@
+server:
+  port: 8090
+
+spring:
+  data:
+    mongodb:
+      username: juldas
+      password: juldas
+      host: localhost
+      database: customer
+      authentication-database: admin
