@@ -1,7 +1,7 @@
 server:
   port: 8888
 
-# Config server configuration
+# Config server: this will be used by other services. It is the main configuration service.
 spring:
   profiles:
     active: native
